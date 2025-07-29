@@ -1,1 +1,21 @@
+# Android Studio specific
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+
+# Build folders
 /build
+/captures
+.externalNativeBuild
+
+# Signing files and keys
+*.keystore
+
+# APK or AAB outputs
+*.apk
+*.aab
+
+# Log files
+*.log

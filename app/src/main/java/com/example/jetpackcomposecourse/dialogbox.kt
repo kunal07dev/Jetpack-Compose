@@ -28,7 +28,7 @@ import androidx.compose.ui.window.Dialog
 
 
 @Composable
-fun DialongWithImage(g
+fun DialongWithImage(
 
 ){
     val context= LocalContext.current

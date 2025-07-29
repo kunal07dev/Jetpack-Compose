@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">jetpack Compose Course</string>
+    <string name="fruit">mango</string>
+    <array name="colors">
+        <item>@color/purple_200</item>
+        <item>@color/purple_500</item>
+        <item>#FF1744</item>
+        <item>@color/teal_200</item>
+        <item>#C8F07C</item>
+    </array>
+
+</resources>
